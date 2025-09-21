@@ -1,8 +1,7 @@
-¡Perfecto, José Luis! Podemos mejorar tu README agregando un **carrusel de imágenes** (slideshow) para que las capturas se vean más atractivas, además de pequeños ajustes de estilo y claridad. Aquí te dejo la versión mejorada:
-
----
-
 # Aprende + (Aprende Kotlin) - Kotlin Jetpack Compose
+<center>
+  <img src="./app/src/main/play_store_512.png" width="300"/>
+</center>
 
 Esta aplicación es un proyecto educativo desarrollado en **Kotlin** usando **Jetpack Compose**. Su objetivo es enseñar conceptos básicos y avanzados de Kotlin y Compose mediante ejemplos interactivos. La app incluye:
 
