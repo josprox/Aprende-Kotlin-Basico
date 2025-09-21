@@ -1,59 +1,69 @@
 # Aprende + (Aprende Kotlin) - Kotlin Jetpack Compose
+
 <center>
-  <img src="./app/src/main/play_store_512.png" width="300"/>
+  <img src="./app/src/main/play_store_512.png" width="200"/>
 </center>
 
-Esta aplicación es un proyecto educativo desarrollado en **Kotlin** usando **Jetpack Compose**. Su objetivo es enseñar conceptos básicos y avanzados de Kotlin y Compose mediante ejemplos interactivos. La app incluye:
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=android\&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)](https://developer.android.com/)
+[![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge\&logo=google\&logoColor=white)](https://developers.google.com/maps)
 
-* **Saludo dinámico**: Permite ingresar un nombre y mostrarlo en pantalla.
-* **Calculadora simple**: Suma dos números ingresados por el usuario.
-* **Serie de Fibonacci recursiva**: Calcula la serie de Fibonacci usando recursión.
-* **Mapa interactivo**: Muestra la ubicación de **Unitec Ecatepec** usando Google Maps.
+**Aprende +** es una aplicación educativa desarrollada en **Kotlin** con **Jetpack Compose**, diseñada para enseñar conceptos básicos y avanzados de Kotlin mediante ejemplos interactivos.
 
-La navegación entre estas secciones se realiza mediante un **menú lateral (Drawer)** dinámico.
+> ⚠️ **Nota:** El ícono de la aplicación fue generado con [icon.kitchen](https://icon.kitchen/).
 
 ---
 
-## Capturas (Carrusel)
+## 🔹 Funcionalidades
 
+* **Saludo dinámico**: Ingresa un nombre y muestra un mensaje personalizado.
+* **Calculadora simple**: Suma dos números ingresados por el usuario.
+* **Serie de Fibonacci recursiva**: Calcula la serie de Fibonacci usando recursión.
+* **Mapa interactivo**: Visualiza la ubicación de **Unitec Ecatepec** con Google Maps Compose.
 
-<div style="display: flex; overflow-x: auto; gap: 8px;">
-  <img src="./screenshot/1.png" alt="Saludo" width="300"/>
-  <img src="./screenshot/2.png" alt="Menú dinámico" width="300"/>
-  <img src="./screenshot/3.png" alt="Calculadora" width="300"/>
-  <img src="./screenshot/4.png" alt="Calculadora de Fibonacci" width="300"/>
-  <img src="./screenshot/5.png" alt="Mapa" width="300"/>
+La navegación se realiza mediante un **menú lateral (Drawer)** dinámico.
+
+---
+
+## 📸 Capturas de pantalla
+
+<div style="display: flex; overflow-x: auto; gap: 12px;">
+  <img src="./screenshot/1.png" alt="Saludo" width="250"/>
+  <img src="./screenshot/2.png" alt="Menú dinámico" width="250"/>
+  <img src="./screenshot/3.png" alt="Calculadora" width="250"/>
+  <img src="./screenshot/4.png" alt="Calculadora de Fibonacci" width="250"/>
+  <img src="./screenshot/5.png" alt="Mapa" width="250"/>
 </div>
 
 ---
 
-## Tecnologías utilizadas
+## 🛠 Tecnologías
 
-* Kotlin
-* Jetpack Compose
-* Material3
-* AndroidX
-* Google Maps Compose (`com.google.maps.android:maps-compose`)
-* ViewModel (`lifecycle-viewmodel-compose`)
+* **Lenguaje:** Kotlin
+* **UI:** Jetpack Compose (Material3)
+* **Arquitectura:** ViewModel, State Management
+* **Google Maps Compose:** `com.google.maps.android:maps-compose`
+* **Dependencias AndroidX**
 
 ---
 
-## Instalación y ejecución
+## ⚙️ Instalación y ejecución
 
-### 1. Clonar el repositorio
+### 1️⃣ Clonar el repositorio
 
 ```bash
 git clone https://github.com/josprox/Aprende-Kotlin-Basico.git
 cd pruebas-app
 ```
 
-### 2. Abrir en Android Studio
+### 2️⃣ Abrir en Android Studio
 
 * Abre **Android Studio (Arctic Fox o superior)**.
 * Selecciona **Open an existing project** y busca la carpeta del repositorio.
-* Asegúrate de que las dependencias se sincronicen (`Sync Project with Gradle Files`).
+* Sincroniza dependencias: **Sync Project with Gradle Files**.
 
-### 3. Configurar la API Key de Google Maps
+### 3️⃣ Configurar la API Key de Google Maps
 
 1. Ve a [Google Cloud Console](https://console.cloud.google.com/).
 2. Crea un proyecto y habilita **Maps SDK for Android**.
@@ -67,18 +77,18 @@ cd pruebas-app
 </resources>
 ```
 
-*(Opcional: para mayor seguridad, puedes usar **dotenv** y cargar la key desde un archivo `.env`)*
+> 🔹 Opcional: Para mayor seguridad, puedes usar `.env` con **dotenv**.
 
-### 4. Ejecutar la app
+### 4️⃣ Ejecutar la aplicación
 
-* Conecta un dispositivo o usa un emulador con Google Play Services.
-* Ejecuta la app desde Android Studio (`Shift + F10`).
+* Conecta un dispositivo físico o emulador con Google Play Services.
+* Ejecuta desde Android Studio (`Shift + F10`).
 
 ---
 
-## Uso de la app
+## 📝 Uso de la app
 
-1. Abre el **menú lateral** y selecciona la sección deseada:
+1. Abre el **menú lateral** y selecciona la sección:
 
    * **Saludo**: Ingresa un nombre y presiona "Mostrar saludo".
    * **Calculadora**: Ingresa dos números y presiona "Sumar".
@@ -89,7 +99,7 @@ cd pruebas-app
 
 ---
 
-## Estructura del proyecto
+## 📁 Estructura del proyecto
 
 ```
 app/
@@ -103,33 +113,40 @@ app/
 │  │  │  ├─ PantallaFibonacci.kt
 │  │  │  └─ PantallaMaps.kt
 │  ├─ ui/routes/
-│  │  └─ AppRoute.kt (gestión de rutas y título de cada pantalla)
+│  │  └─ AppRoute.kt (gestión de rutas y títulos de pantallas)
 │  └─ ui/viewmodel/
 │     └─ FibonacciViewModel.kt
 ```
 
 ---
 
-## Buenas prácticas
+## ✅ Buenas prácticas aplicadas
 
-* Separación de lógica y UI: la lógica de cálculo de Fibonacci se maneja en **ViewModel**.
-* Rutas centralizadas: todas las pantallas se registran en `AppRoute` para facilidad de navegación.
-* Estado de Compose: se utiliza `remember` y `mutableStateOf` para mantener los valores dinámicos.
-* Google Maps: se maneja con `rememberCameraPositionState` y `rememberUpdatedMarkerState`.
-
----
-
-## Personalización
-
-* Puedes añadir nuevas pantallas creando un nuevo objeto que implemente `AppRoute` y agregándolo a `AppRoute.allRoutes`.
-* Para agregar más funcionalidades en la calculadora o Fibonacci, modifica los ViewModels o pantallas correspondientes.
+* **Separación de lógica y UI:** la lógica de Fibonacci se maneja en ViewModel.
+* **Rutas centralizadas:** navegación controlada mediante `AppRoute`.
+* **Manejo de estado en Compose:** `remember` y `mutableStateOf`.
+* **Google Maps Compose:** manejo de cámara y marcadores con `rememberCameraPositionState` y `rememberUpdatedMarkerState`.
 
 ---
 
-## Contribuciones
+## 🔧 Personalización
+
+* Añade nuevas pantallas creando un objeto que implemente `AppRoute` y agrégalo a `AppRoute.allRoutes`.
+* Modifica los ViewModels para ampliar la calculadora o Fibonacci.
+
+---
+
+## 🚀 Próximas funcionalidades
+
+* Integración de más ejercicios interactivos de Kotlin.
+* Mejoras en el diseño de la interfaz (Material3 avanzado).
+* Exportar resultados de ejercicios a PDF o compartirlos.
+
+---
+
+## 🤝 Contribuciones
 
 1. Haz un fork del repositorio.
 2. Crea una rama: `git checkout -b feature/nueva-pantalla`.
 3. Realiza los cambios y haz commit.
-4. Abre un Pull Request.
-
+4. Abre un Pull Request para revisión.
