@@ -1,0 +1,2368 @@
+[
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "es",
+      "original_text": "Hola",
+      "key": "hello",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:02:53.509473",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "es",
+      "original_text": "Escribe tu nombre",
+      "key": "enterName",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:04:49.360897",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "es",
+      "original_text": "Mostrar saludo",
+      "key": "showGreeting",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:09:36.025776",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Number",
+      "key": "number",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:22:52.704181",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Add the amount",
+      "key": "addAmount",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:26:20.201647",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Enter valid numbers",
+      "key": "enterValidNumbers",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:27:06.643706",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "es",
+      "original_text": "Resultado",
+      "key": "result",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:28:15.309372",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "es",
+      "original_text": "Menú",
+      "key": "menu",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:41:51.142166",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Simple calculator",
+      "key": "SimpleCalculator",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:44:32.734141",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Welcome greeting",
+      "key": "welcomeGreeting",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T15:46:55.565868",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Fibonacci Series Calculator",
+      "key": "fibonacciSeriesCalculator",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T16:34:56.833948",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Enter the number of terms",
+      "key": "enterNumberTerms",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T16:36:39.804780",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Calculate",
+      "key": "calculate",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T16:57:55.582825",
+    "platform": "kotlin"
+  },
+  {
+    "type": "add_key",
+    "data": {
+      "base_lang": "en",
+      "original_text": "Fibonacci Sequence Table",
+      "key": "fibonacciSequenceTable",
+      "desc": "Generado con Joss Red",
+      "affected_files": {
+        "values": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ar": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-be": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bg": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bn-rIN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-bs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-cs": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-de": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-el": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-es": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-et": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-fr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-hu": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-in": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-it": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ja": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ko": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ml": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nb-rNO": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ne": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-nl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-or": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pa": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pl": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-pt-rBR": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ru": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-sv": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-ta": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-tr": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-uk": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-vi": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rCN": {
+          "old_value": null,
+          "old_desc": null
+        },
+        "values-zh-rTW": {
+          "old_value": null,
+          "old_desc": null
+        }
+      }
+    },
+    "timestamp": "2025-09-20T16:58:58.608639",
+    "platform": "kotlin"
+  }
+]

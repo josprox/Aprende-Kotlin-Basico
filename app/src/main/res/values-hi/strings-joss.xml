@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">नमस्ते</string>
+  <string name="enterName">अपना नाम लिखें</string>
+  <string name="showGreeting">ग्रीटिंग दिखाओ</string>
+  <string name="number">संख्या</string>
+  <string name="addAmount">राशि जोड़ें</string>
+  <string name="enterValidNumbers">मान्य संख्या दर्ज करें</string>
+  <string name="result">परिणाम</string>
+  <string name="menu">मेनू</string>
+  <string name="SimpleCalculator">सरल कैलकुलेटर</string>
+  <string name="welcomeGreeting">स्वागत अभिवादन</string>
+  <string name="fibonacciSeriesCalculator">फाइबोनैचि श्रृंखला कैलकुलेटर</string>
+  <string name="enterNumberTerms">शर्तों की संख्या दर्ज करें</string>
+  <string name="calculate">गणना</string>
+  <string name="fibonacciSequenceTable">फाइबोनैसी अनुक्रम तालिका</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">ഹലോ</string>
+  <string name="enterName">നിങ്ങളുടെ പേര് എഴുതുക</string>
+  <string name="showGreeting">അഭിവാദ്യം കാണിക്കുക</string>
+  <string name="number">അക്കം</string>
+  <string name="addAmount">തുക ചേർക്കുക</string>
+  <string name="enterValidNumbers">സാധുവായ നമ്പറുകൾ നൽകുക</string>
+  <string name="result">പരിണാമം</string>
+  <string name="menu">മെനു</string>
+  <string name="SimpleCalculator">ലളിതമായ കാൽക്കുലേറ്റർ</string>
+  <string name="welcomeGreeting">സ്വാഗതം അഭിവാദ്യം</string>
+  <string name="fibonacciSeriesCalculator">ഫൈബൊനാക് സീരീസ് കാൽക്കുലേറ്റർ</string>
+  <string name="enterNumberTerms">നിബന്ധനകളുടെ എണ്ണം നൽകുക</string>
+  <string name="calculate">കണക്കാക്കുക</string>
+  <string name="fibonacciSequenceTable">ഫിബൊനാക് സീക്വൻസ് ടേബിൾ</string>
+</resources>

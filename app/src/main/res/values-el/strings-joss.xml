@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Γειά σου</string>
+  <string name="enterName">Γράψτε το όνομά σας</string>
+  <string name="showGreeting">Εμφάνιση χαιρετισμού</string>
+  <string name="number">Αριθμός</string>
+  <string name="addAmount">Προσθέστε το ποσό</string>
+  <string name="enterValidNumbers">Εισαγάγετε έγκυρους αριθμούς</string>
+  <string name="result">Αποτέλεσμα</string>
+  <string name="menu">Μενού</string>
+  <string name="SimpleCalculator">Απλή αριθμομηχανή</string>
+  <string name="welcomeGreeting">Καλώς ήλθατε χαιρετισμό</string>
+  <string name="fibonacciSeriesCalculator">Υπολογιστής σειράς Fibonacci</string>
+  <string name="enterNumberTerms">Εισαγάγετε τον αριθμό των όρων</string>
+  <string name="calculate">Υπολογίζω</string>
+  <string name="fibonacciSequenceTable">Πίνακας ακολουθίας Fibonacci</string>
+</resources>

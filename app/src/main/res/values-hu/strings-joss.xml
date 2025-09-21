@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Helló</string>
+  <string name="enterName">Írja be a nevét</string>
+  <string name="showGreeting">Üdvözletet mutat</string>
+  <string name="number">Szám</string>
+  <string name="addAmount">Adja hozzá az összeget</string>
+  <string name="enterValidNumbers">Írja be az érvényes számokat</string>
+  <string name="result">Eredmény</string>
+  <string name="menu">Menü</string>
+  <string name="SimpleCalculator">Egyszerű számológép</string>
+  <string name="welcomeGreeting">Üdvözöljük üdvözlet</string>
+  <string name="fibonacciSeriesCalculator">Fibonacci sorozat számológép</string>
+  <string name="enterNumberTerms">Írja be a kifejezések számát</string>
+  <string name="calculate">Kiszámít</string>
+  <string name="fibonacciSequenceTable">Fibonacci szekvenciaasztal</string>
+</resources>

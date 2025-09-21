@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Ahoj</string>
+  <string name="enterName">Napište své jméno</string>
+  <string name="showGreeting">Ukažte pozdrav</string>
+  <string name="number">Číslo</string>
+  <string name="addAmount">Přidat částku</string>
+  <string name="enterValidNumbers">Zadejte platná čísla</string>
+  <string name="result">Výsledek</string>
+  <string name="menu">Menu</string>
+  <string name="SimpleCalculator">Jednoduchá kalkulačka</string>
+  <string name="welcomeGreeting">Vítejte pozdrav</string>
+  <string name="fibonacciSeriesCalculator">Kalkulačka řady Fibonacci</string>
+  <string name="enterNumberTerms">Zadejte počet podmínek</string>
+  <string name="calculate">Vypočítat</string>
+  <string name="fibonacciSequenceTable">Tabulka Fibonacci sekvence</string>
+</resources>

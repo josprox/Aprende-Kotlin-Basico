@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">வணக்கம்</string>
+  <string name="enterName">உங்கள் பெயரை எழுதுங்கள்</string>
+  <string name="showGreeting">வாழ்த்தைக் காட்டு</string>
+  <string name="number">எண்</string>
+  <string name="addAmount">தொகையைச் சேர்க்கவும்</string>
+  <string name="enterValidNumbers">செல்லுபடியாகும் எண்களை உள்ளிடவும்</string>
+  <string name="result">முடிவு</string>
+  <string name="menu">பட்டி</string>
+  <string name="SimpleCalculator">எளிய கால்குலேட்டர்</string>
+  <string name="welcomeGreeting">வரவேற்பு வாழ்த்து</string>
+  <string name="fibonacciSeriesCalculator">ஃபைபோனச்சி தொடர் கால்குலேட்டர்</string>
+  <string name="enterNumberTerms">விதிமுறைகளின் எண்ணிக்கையை உள்ளிடவும்</string>
+  <string name="calculate">கணக்கிடுங்கள்</string>
+  <string name="fibonacciSequenceTable">ஃபைபோனச்சி வரிசை அட்டவணை</string>
+</resources>

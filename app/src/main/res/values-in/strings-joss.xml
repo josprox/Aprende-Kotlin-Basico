@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Halo</string>
+  <string name="enterName">Tuliskan nama Anda</string>
+  <string name="showGreeting">Tampilkan salam</string>
+  <string name="number">Nomor</string>
+  <string name="addAmount">Tambahkan jumlahnya</string>
+  <string name="enterValidNumbers">Masukkan nomor yang valid</string>
+  <string name="result">Hasil</string>
+  <string name="menu">Menu</string>
+  <string name="SimpleCalculator">Kalkulator Sederhana</string>
+  <string name="welcomeGreeting">Selamat datang salam</string>
+  <string name="fibonacciSeriesCalculator">Kalkulator Seri Fibonacci</string>
+  <string name="enterNumberTerms">Masukkan jumlah istilah</string>
+  <string name="calculate">Menghitung</string>
+  <string name="fibonacciSequenceTable">Tabel Urutan Fibonacci</string>
+</resources>

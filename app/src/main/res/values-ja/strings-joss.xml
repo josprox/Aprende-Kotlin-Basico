@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">こんにちは</string>
+  <string name="enterName">あなたの名前を書いてください</string>
+  <string name="showGreeting">挨拶を見せます</string>
+  <string name="number">番号</string>
+  <string name="addAmount">金額を追加します</string>
+  <string name="enterValidNumbers">有効な番号を入力します</string>
+  <string name="result">結果</string>
+  <string name="menu">メニュー</string>
+  <string name="SimpleCalculator">シンプルな計算機</string>
+  <string name="welcomeGreeting">ようこそ挨拶</string>
+  <string name="fibonacciSeriesCalculator">フィボナッチシリーズ計算機</string>
+  <string name="enterNumberTerms">用語数を入力します</string>
+  <string name="calculate">計算します</string>
+  <string name="fibonacciSequenceTable">フィボナッチシーケンステーブル</string>
+</resources>

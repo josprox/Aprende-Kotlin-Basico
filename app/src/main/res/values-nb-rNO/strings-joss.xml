@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Hallo</string>
+  <string name="enterName">Skriv navnet ditt</string>
+  <string name="showGreeting">Vis hilsen</string>
+  <string name="number">Tall</string>
+  <string name="addAmount">Legg til beløpet</string>
+  <string name="enterValidNumbers">Angi gyldige tall</string>
+  <string name="result">Resultat</string>
+  <string name="menu">Meny</string>
+  <string name="SimpleCalculator">Enkel kalkulator</string>
+  <string name="welcomeGreeting">Velkommen hilsen</string>
+  <string name="fibonacciSeriesCalculator">Fibonacci -serien kalkulator</string>
+  <string name="enterNumberTerms">Skriv inn antall vilkår</string>
+  <string name="calculate">Kalkulere</string>
+  <string name="fibonacciSequenceTable">Fibonacci sekvensbord</string>
+</resources>

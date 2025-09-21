@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Zdravo</string>
+  <string name="enterName">Napišite svoje ime</string>
+  <string name="showGreeting">Prikaži pozdrav</string>
+  <string name="number">Broj</string>
+  <string name="addAmount">Dodajte iznos</string>
+  <string name="enterValidNumbers">Unesite važeće brojeve</string>
+  <string name="result">Rezultat</string>
+  <string name="menu">Meni</string>
+  <string name="SimpleCalculator">Jednostavan kalkulator</string>
+  <string name="welcomeGreeting">Pozdrav pozdrav</string>
+  <string name="fibonacciSeriesCalculator">Kalkulator serije FIBONACCI</string>
+  <string name="enterNumberTerms">Unesite broj pojmova</string>
+  <string name="calculate">Izračunati</string>
+  <string name="fibonacciSequenceTable">FIBONACCI TABELNA</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">سلام</string>
+  <string name="enterName">نام خود را بنویسید</string>
+  <string name="showGreeting">تبریک را نشان دهید</string>
+  <string name="number">شماره</string>
+  <string name="addAmount">مقدار را اضافه کنید</string>
+  <string name="enterValidNumbers">شماره های معتبر را وارد کنید</string>
+  <string name="result">نتیجه</string>
+  <string name="menu">منو</string>
+  <string name="SimpleCalculator">ماشین حساب</string>
+  <string name="welcomeGreeting">خوش آمدید سلام</string>
+  <string name="fibonacciSeriesCalculator">ماشین حساب سری فیبوناچی</string>
+  <string name="enterNumberTerms">تعداد شرایط را وارد کنید</string>
+  <string name="calculate">محاسبه کردن</string>
+  <string name="fibonacciSequenceTable">جدول توالی فیبوناچی</string>
+</resources>

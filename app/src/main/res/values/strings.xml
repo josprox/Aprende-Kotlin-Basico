@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Aprende +</string>
+    <string name="googlemaps" translatable="false">Google Maps</string>
+
+</resources>

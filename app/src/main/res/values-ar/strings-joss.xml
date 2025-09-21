@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">مرحبًا</string>
+  <string name="enterName">اكتب اسمك</string>
+  <string name="showGreeting">إظهار التحية</string>
+  <string name="number">رقم</string>
+  <string name="addAmount">أضف المبلغ</string>
+  <string name="enterValidNumbers">أدخل أرقام صالحة</string>
+  <string name="result">نتيجة</string>
+  <string name="menu">قائمة طعام</string>
+  <string name="SimpleCalculator">آلة حاسبة بسيطة</string>
+  <string name="welcomeGreeting">مرحبا بالتحية</string>
+  <string name="fibonacciSeriesCalculator">حاسبة سلسلة فيبوناتشي</string>
+  <string name="enterNumberTerms">أدخل عدد المصطلحات</string>
+  <string name="calculate">حساب</string>
+  <string name="fibonacciSequenceTable">جدول تسلسل فيبوناتشي</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Hei</string>
+  <string name="enterName">Kirjoita nimesi</string>
+  <string name="showGreeting">Näytä tervehdys</string>
+  <string name="number">Määrä</string>
+  <string name="addAmount">Lisää määrä</string>
+  <string name="enterValidNumbers">Kirjoita kelvolliset numerot</string>
+  <string name="result">Tulos</string>
+  <string name="menu">Valikko</string>
+  <string name="SimpleCalculator">Yksinkertainen laskin</string>
+  <string name="welcomeGreeting">Tervetuloa tervehdys</string>
+  <string name="fibonacciSeriesCalculator">Fibonacci -sarjan laskin</string>
+  <string name="enterNumberTerms">Kirjoita ehtojen lukumäärä</string>
+  <string name="calculate">Laskea</string>
+  <string name="fibonacciSequenceTable">Fibonacci -sekvenssitaulukko</string>
+</resources>

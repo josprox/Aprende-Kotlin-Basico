@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Hallo</string>
+  <string name="enterName">Schrijf uw naam</string>
+  <string name="showGreeting">Toon groet</string>
+  <string name="number">Nummer</string>
+  <string name="addAmount">Voeg het bedrag toe</string>
+  <string name="enterValidNumbers">Voer geldige nummers in</string>
+  <string name="result">Resultaat</string>
+  <string name="menu">Menu</string>
+  <string name="SimpleCalculator">Eenvoudige rekenmachine</string>
+  <string name="welcomeGreeting">Welkom groet</string>
+  <string name="fibonacciSeriesCalculator">Fibonacci -serie calculator</string>
+  <string name="enterNumberTerms">Voer het aantal voorwaarden in</string>
+  <string name="calculate">Berekenen</string>
+  <string name="fibonacciSequenceTable">Fibonacci -sequentietabel</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Прывітанне</string>
+  <string name="enterName">Напішыце сваё імя</string>
+  <string name="showGreeting">Пакажыце прывітанне</string>
+  <string name="number">Нумар</string>
+  <string name="addAmount">Дадайце суму</string>
+  <string name="enterValidNumbers">Увядзіце сапраўдныя нумары</string>
+  <string name="result">Вынік</string>
+  <string name="menu">Меню</string>
+  <string name="SimpleCalculator">Просты калькулятар</string>
+  <string name="welcomeGreeting">Сардэчна запрашаем прывітанне</string>
+  <string name="fibonacciSeriesCalculator">Калькулятар серыі Fibonacci</string>
+  <string name="enterNumberTerms">Увядзіце колькасць тэрмінаў</string>
+  <string name="calculate">Вылічваць</string>
+  <string name="fibonacciSequenceTable">Табліца паслядоўнасці фібаначчы</string>
+</resources>

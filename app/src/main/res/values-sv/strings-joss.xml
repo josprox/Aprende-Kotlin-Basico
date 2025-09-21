@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Hej</string>
+  <string name="enterName">Skriv ditt namn</string>
+  <string name="showGreeting">Visa hälsning</string>
+  <string name="number">Antal</string>
+  <string name="addAmount">Lägg till beloppet</string>
+  <string name="enterValidNumbers">Ange giltiga nummer</string>
+  <string name="result">Resultat</string>
+  <string name="menu">Meny</string>
+  <string name="SimpleCalculator">Enkel räknare</string>
+  <string name="welcomeGreeting">Välkommen hälsning</string>
+  <string name="fibonacciSeriesCalculator">Fibonacci -seriekalkylator</string>
+  <string name="enterNumberTerms">Ange antalet villkor</string>
+  <string name="calculate">Kalkylera</string>
+  <string name="fibonacciSequenceTable">Fibonacci sekvensbord</string>
+</resources>

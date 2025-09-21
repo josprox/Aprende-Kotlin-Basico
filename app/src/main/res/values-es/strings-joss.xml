@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Hola</string>
+  <string name="enterName">Escribe tu nombre</string>
+  <string name="showGreeting">Mostrar saludo</string>
+  <string name="number">Número</string>
+  <string name="addAmount">Agregar la cantidad</string>
+  <string name="enterValidNumbers">Ingrese números válidos</string>
+  <string name="result">Resultado</string>
+  <string name="menu">Menú</string>
+  <string name="SimpleCalculator">Calculadora simple</string>
+  <string name="welcomeGreeting">Saludo de bienvenida</string>
+  <string name="fibonacciSeriesCalculator">Calculadora de la serie Fibonacci</string>
+  <string name="enterNumberTerms">Ingrese el número de términos</string>
+  <string name="calculate">Calcular</string>
+  <string name="fibonacciSequenceTable">Tabla de secuencia de fibonacci</string>
+</resources>

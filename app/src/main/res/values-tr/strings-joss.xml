@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Merhaba</string>
+  <string name="enterName">Adını yaz</string>
+  <string name="showGreeting">Tebrik Göster</string>
+  <string name="number">Sayı</string>
+  <string name="addAmount">Miktarı ekle</string>
+  <string name="enterValidNumbers">Geçerli numaraları girin</string>
+  <string name="result">Sonuç</string>
+  <string name="menu">Menü</string>
+  <string name="SimpleCalculator">Basit hesap makinesi</string>
+  <string name="welcomeGreeting">Hoş Geldiniz Selamlama</string>
+  <string name="fibonacciSeriesCalculator">Fibonacci Serisi Hesap Makinesi</string>
+  <string name="enterNumberTerms">Terim sayısını girin</string>
+  <string name="calculate">Hesaplamak</string>
+  <string name="fibonacciSequenceTable">Fibonacci dizisi tablosu</string>
+</resources>

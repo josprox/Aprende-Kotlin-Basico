@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">안녕하세요</string>
+  <string name="enterName">당신의 이름을 쓰십시오</string>
+  <string name="showGreeting">인사말을 보여주십시오</string>
+  <string name="number">숫자</string>
+  <string name="addAmount">금액을 추가하십시오</string>
+  <string name="enterValidNumbers">유효한 숫자를 입력하십시오</string>
+  <string name="result">결과</string>
+  <string name="menu">메뉴</string>
+  <string name="SimpleCalculator">간단한 계산기</string>
+  <string name="welcomeGreeting">환영 인사</string>
+  <string name="fibonacciSeriesCalculator">Fibonacci 시리즈 계산기</string>
+  <string name="enterNumberTerms">용어 수를 입력하십시오</string>
+  <string name="calculate">믿다</string>
+  <string name="fibonacciSequenceTable">피보나치 시퀀스 테이블</string>
+</resources>

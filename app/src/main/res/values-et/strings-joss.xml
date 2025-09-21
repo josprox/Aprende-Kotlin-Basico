@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">Tere</string>
+  <string name="enterName">Kirjutage oma nimi</string>
+  <string name="showGreeting">Näita tervitusi</string>
+  <string name="number">Arv</string>
+  <string name="addAmount">Lisage summa</string>
+  <string name="enterValidNumbers">Sisestage kehtivad numbrid</string>
+  <string name="result">Tulemus</string>
+  <string name="menu">Menüü</string>
+  <string name="SimpleCalculator">Lihtne kalkulaator</string>
+  <string name="welcomeGreeting">Tere tulemast tervitus</string>
+  <string name="fibonacciSeriesCalculator">Fibonacci seeria kalkulaator</string>
+  <string name="enterNumberTerms">Sisestage tingimuste arv</string>
+  <string name="calculate">Arvutama</string>
+  <string name="fibonacciSequenceTable">Fibonacci järjestuse tabel</string>
+</resources>

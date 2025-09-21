@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">你好</string>
+  <string name="enterName">写你的名字</string>
+  <string name="showGreeting">显示问候</string>
+  <string name="number">数字</string>
+  <string name="addAmount">添加金额</string>
+  <string name="enterValidNumbers">输入有效数字</string>
+  <string name="result">结果</string>
+  <string name="menu">菜单</string>
+  <string name="SimpleCalculator">简单的计算器</string>
+  <string name="welcomeGreeting">欢迎问候</string>
+  <string name="fibonacciSeriesCalculator">斐波那契系列计算器</string>
+  <string name="enterNumberTerms">输入条款数</string>
+  <string name="calculate">计算</string>
+  <string name="fibonacciSequenceTable">斐波那契序列表</string>
+</resources>

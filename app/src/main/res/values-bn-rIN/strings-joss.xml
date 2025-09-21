@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="hello">হ্যালো</string>
+  <string name="enterName">আপনার নাম লিখুন</string>
+  <string name="showGreeting">শুভেচ্ছা দেখান</string>
+  <string name="number">সংখ্যা</string>
+  <string name="addAmount">পরিমাণ যোগ করুন</string>
+  <string name="enterValidNumbers">বৈধ নম্বর লিখুন</string>
+  <string name="result">ফলাফল</string>
+  <string name="menu">মেনু</string>
+  <string name="SimpleCalculator">সাধারণ ক্যালকুলেটর</string>
+  <string name="welcomeGreeting">স্বাগতম শুভেচ্ছা</string>
+  <string name="fibonacciSeriesCalculator">ফিবোনাচি সিরিজ ক্যালকুলেটর</string>
+  <string name="enterNumberTerms">শর্তাদি সংখ্যা লিখুন</string>
+  <string name="calculate">গণনা</string>
+  <string name="fibonacciSequenceTable">ফিবোনাচি সিকোয়েন্স টেবিল</string>
+</resources>
